@@ -1,4 +1,4 @@
-# double_battles (release mirror)
+# double_battles (Official mirror)
 
 Installable releases of the **Double Battles** mod for [gen1recomp](https://github.com/bryanthaboi/gen1recomp).
 
